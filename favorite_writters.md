@@ -1,3 +1,3 @@
 # My Favorite Writer
 
-My favorite writer is Jesse and Sir Arthur Connan Doyle!
+My favorite writer is Jesse!
