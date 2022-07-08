@@ -1,0 +1,9 @@
+[package]
+name = "tinymd"
+version = "0.1.0"
+authors = ["Fernando Farias <me@nandofarias.dev>"]
+edition = "2021"
+description = "A tiny markdown compiler based on Jesse's tutorials."
+homepage = "https://jesselawson.org/rust"
+
+[dependencies]
