@@ -13,5 +13,3 @@ Jesse likes to drink coffee in the mornings and iced tea throughout the day. Som
 # Jesse's favorite hobbies
 
 Jesse likes to write about computer programming and game design, and when he is not hunched over a computer, you can find him out on a run and listening to a podcast or the serenity of mother nature.
-
-Changing another file
