@@ -1,3 +1,3 @@
-# My Favorite Writer
+# My Favorite Writers
 
-My favorite writer is Jesse!
+My favorite writer are: Jesse and others!
