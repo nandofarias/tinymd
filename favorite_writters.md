@@ -1,3 +1,5 @@
 # My Favorite Writers
 
-My favorite writer are: Jesse and others!
+My favorite writer are: Jesse, @nandofarias and others!
+
+The end!
